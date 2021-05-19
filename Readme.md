@@ -1,2 +1,1 @@
-Here is the repository for the morse code translator project. The main file is a MPlab project and the documentation including the circuit diagram
-and explanations for all of the code functions.
+Here is the github repository for the Morse Code Translator project. Included is the MPLAB project file which includes all of the code and header files. 
